@@ -8,19 +8,19 @@ Manipuler des **tableaux associatifs** en PHP et créer une **fonction d’affic
 
 ## ✍️ Consignes
 
-1. Créer un **tableau PHP associatif** contenant des informations sur plusieurs écrivains célèbres.
+1. Créer un **tableau PHP associatif** contenant des informations sur plusieurs écrivains célèbres.  
 2. Pour chaque écrivain, stocker les informations suivantes :
    - `firstname` (Prénom)
    - `name` (Nom)
    - `portrait` (URL de l’image)
    - `birth` (Année de naissance)
    - `death` (Année de mort)
-   - `main_work` (Œuvre principale)
+   - `main_work` (Œuvre principale)  
 3. Créer une fonction `afficherPortrait()` qui :
    - Affiche le nom complet de l’écrivain
    - Affiche son portrait via une balise `<img>`
    - Affiche ses années de naissance et de mort
-   - Affiche son œuvre principale
+   - Affiche son œuvre principale  
 4. Parcourir le tableau principal avec une **boucle** et appeler `afficherPortrait()` pour chaque écrivain.
 
 ---
