@@ -1,3 +1,4 @@
+
 # 🧪 TP PHP — Les écrivains français
 
 ## 🎯 Objectif
@@ -63,3 +64,7 @@ $films = array(
 
 - Ajouter un lien vers la page Wikipédia de chaque écrivain.
 - Créer une fonction pour trier les écrivains par année de naissance avec `usort()`.
+
+## ✍️ Exemple attendu
+
+![Exemple](https://sebastien-devos.fr/img/codegt/exemple-ecrivains.png "TP Ecrivains")
