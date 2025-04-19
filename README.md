@@ -60,6 +60,12 @@ $films = array(
 
 ```
 
+Pour afficher un champ du tableau, on pourra utiliser une syntaxe du genre à l'intérieur d'une fonction PHP.
+
+```php
+    echo '<p><strong>Titre :</strong> ' . $film['title'] . '</p>';
+```
+
 ## ➕ Bonus
 
 - Ajouter un lien vers la page Wikipédia de chaque écrivain.
